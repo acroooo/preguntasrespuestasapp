@@ -1,2 +1,2 @@
-# premiosplatziapp
-Premio Platzi App del curso de Django básico
+# preguntasrespuestasapp
+Proyecto de preguntas y respuestas del curso de Django básico en Platzi
